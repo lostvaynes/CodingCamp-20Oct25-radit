@@ -57,6 +57,7 @@ header .logo a {
   list-style: none;
   position: relative;
   display: flex;
+  
 }
 
 .nav_links li {
@@ -179,12 +180,12 @@ header .logo a {
 
 .about .about-icons i {
   font-size: 32px;
-  color: #6b7280;
-  transition: 0.1s;
+  color: #000000;
+  transition: 0.2s;
 }
 
 .about .about-icons i:hover {
-  color: #7e8187;
+  color: #1de22e;
   transform: scale(1.1);
   transition: 0.2s;
 }
@@ -526,7 +527,7 @@ footer {
   justify-content: center;
   position: relative;
   text-align: center;
-  background-color: #0284c7;
+  background-color: #000000;
   margin-top: 5rem;
 }
 
@@ -578,12 +579,12 @@ footer .wave {
 
 .social-icons i {
   font-size: 30px;
-  color: #0284c7;
+  color: #000000;
   transition: 0.1s;
 }
 
 .social-icons i:hover {
-  color: #26546b;
+  color: #26e2aa;
 }
 
 .social-icons a:hover {
@@ -593,7 +594,7 @@ footer .wave {
 
 .createby p:nth-child(1) {
   font-size: 15px;
-  color: #1e293b;
+  color: #ffffff;
 
   font-weight: unset;
 }
@@ -602,7 +603,7 @@ footer .wave {
   font-size: 15px;
   margin: -5px 0 10px;
   font-weight: unset;
-  color: #1e293b;
+  color: #fafafa;
 }
 
 #scrool-up.srcl i {
