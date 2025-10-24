@@ -518,6 +518,7 @@ input[type="submit"]:active {
 .btn-form {
   text-align: center;
   margin-top: 2rem;
+  color: #04e029;
 }
 
 footer {
@@ -603,7 +604,7 @@ footer .wave {
   font-size: 15px;
   margin: -5px 0 10px;
   font-weight: unset;
-  color: #fafafa;
+  color: #1e293b;
 }
 
 #scrool-up.srcl i {
