@@ -83,15 +83,15 @@ header .logo a {
   border-radius: 50px;
   cursor: pointer;
   transform: all 0.3s ease 0s;
-  color: #0284c7;
-  border: 1px solid #0284c7;
+  color: rgb(8, 206, 8);
+  border: 1px solid #02c71c;
   transition: 0.1s;
-  background-color: #fff;
+  background-color: #0f0f0f;
 }
 
 .nav_btn button:hover {
-  background-color: #0284c7;
-  color: #fff;
+  background-color: #0dd689;
+  color: black;
   transition: 0.2s;
 }
 
@@ -135,16 +135,16 @@ header .logo a {
   border-radius: 50px;
   cursor: pointer;
   transform: all 0.3s ease 0s;
-  border: 1px solid #0284c7;
-  color: #fff;
+  border: 1px solid #02c75b;
+  color: #21db09;
   transition: 0.4s;
-  background-color: #0284c7;
+  background-color: black;
   display: inline-block;
 }
 
 .about_btn button:hover {
-  background-color: #0497e0;
-  color: #fff;
+  background-color: #04e029;
+  color: #111010;
   transform: scale(1.1);
   transition: 0.4s;
 }
@@ -583,7 +583,7 @@ footer .wave {
 }
 
 .social-icons i:hover {
-  color: #0196e0;
+  color: #26546b;
 }
 
 .social-icons a:hover {
