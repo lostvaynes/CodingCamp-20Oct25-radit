@@ -22,7 +22,9 @@ button {
   /* color: ; */
   text-decoration: none;
 }
-
+.tes{
+  text-align: justify;
+}
 header {
   position: fixed;
   top: 0;
